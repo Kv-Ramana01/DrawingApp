@@ -1,0 +1,13 @@
+# Java
+*.class
+# IntelliJ IDEA
+.idea/
+# Eclipse
+.project
+.classpath
+.settings/
+# VSCode
+.vscode/
+# OS files
+.DS_Store
+Thumbs.db
